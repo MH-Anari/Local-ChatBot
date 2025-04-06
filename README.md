@@ -12,7 +12,7 @@ Feel free to use it for good purposes. It is just for you without any api call f
 
 # Screenshot
 
-!(chat_history)[chat.PNG]
+![chat_history](chat.PNG)
 
 ## Potential Issues & Troubleshooting
 
