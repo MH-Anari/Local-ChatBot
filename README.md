@@ -1,6 +1,6 @@
 # Run Gemma3:12B LLM locally with Ollama and Langchain
 
-These Jupyter Notebooks allow you to easily run the Gemma3:12B LLM or any others locally using Ollama and Langchain.  It's a convenient way to experiment with this powerful model without relying on external APIs.
+These Jupyter Notebooks allow you to easily run the Gemma3:12B LLM or any others locally using Ollama and Langchain.  It's a convenient way to experiment with this powerful model without relying on external APIs. <br/>
 Note : The contents of READMe file is also available in Lovely Persian via README_FA.md file.
 
 ## List of Projects
