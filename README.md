@@ -1,19 +1,23 @@
 # Run Gemma3:12B LLM locally with Ollama
 
-This Jupyter Notebook allows you to easily run the Gemma3:12B LLM locally using Ollama.  It's a convenient way to experiment with this powerful model without relying on external APIs.
-Also, you can run any open-source model in back-end according to you GPU capacity.
+These Jupyter Notebooks allow you to easily run the Gemma3:12B LLM or any others locally using Ollama and Langchain.  It's a convenient way to experiment with this powerful model without relying on external APIs.
+
+## List of Projects
+*   **Simple ChatBot based on gemma3:12b (or any other)**
+*   **RAG ChatBot using a knowledge base with persian contexts for answering accuratly**
+*   **Maybe Continue...**
 
 ## Setup
 
-It does not have any seprated setup. just run notebook cells sequentially from the first.
+It does not have any seprated setup. just run every notebook cells sequentially from the first.
 
 ## Usage
 
-Feel free to use it for good purposes. It is just for you without any api call for security of data and requests without any pay.
+Feel free to use it for good purposes. these are for you without any api call for security of data and requests without any pay.
 
 ## Screenshot
 
-![chat_history](chat.PNG)
+![chat_history](LLM-RAG/Screenshots/RAG.png)
 
 ## Potential Issues & Troubleshooting
 
